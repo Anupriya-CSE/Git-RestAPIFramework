@@ -35,7 +35,7 @@ public class TestDataBuild {
 	}
 	
 	public void test() {
-		System.out.println("test - test");
+		System.out.println("test - adding new");
 	}
 
 }
